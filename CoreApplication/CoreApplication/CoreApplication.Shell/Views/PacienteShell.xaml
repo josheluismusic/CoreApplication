@@ -1,0 +1,46 @@
+﻿<src:WindowBase x:Class="CoreApplication.Shell.Views.PacienteShell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://www.codeplex.com/prism"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        xmlns:inf="clr-namespace:CoreApplication.Infrastructure;assembly=CoreApplication.Infrastructure"
+        xmlns:src="clr-namespace:CoreApplication.Shell"
+        xmlns:uc="clr-namespace:CoreApplication.Shell.UserControls"
+        MinHeight="720" MinWidth="1280"
+        Title="PacienteShell">
+
+    <Grid UseLayoutRounding="True"
+          Background="{DynamicResource ShellDefaultBackground}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <uc:Header x:Name="Header"
+                   Grid.Row="0"
+                   MainMenu="{Binding MainMenuItems}"
+                   StatsMenu="{Binding StatsMenuItems}"
+                   ConfigMenu="{Binding ConfigMenuItems}"
+                   HelpMenu="{Binding HelpMenuItems}"/>
+
+        <ContentControl Name="HeadRegion"
+                        prism:RegionManager.RegionName="{x:Static inf:RegionNames.PacienteShellHeadRegion}"
+                        Grid.Row="1"/>
+
+        <uc:Info Grid.Row="2"
+                 RegionName="{x:Static inf:RegionNames.PacienteShellInfoRegion}"
+                 Collapsable="True"
+                 Background="White"/>
+
+        <ScrollViewer Grid.Row="3"
+                      Margin="5"
+                      VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Auto">
+            <ContentControl Name="MainRegion"
+                            prism:RegionManager.RegionName="{x:Static inf:RegionNames.PacienteShellMainRegion}"/>
+        </ScrollViewer>
+
+    </Grid>
+</src:WindowBase>

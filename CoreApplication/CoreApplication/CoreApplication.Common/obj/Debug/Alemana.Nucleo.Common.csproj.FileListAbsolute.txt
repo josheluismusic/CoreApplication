@@ -1,0 +1,32 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Alemana.Nucleo.Common.dll.config
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Alemana.Nucleo.Common.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Alemana.Nucleo.Common.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\fastJSON.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.ExceptionHandling.Resource.resources
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.Messages.resources
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.csproj.GenerateResource.Cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Alemana.Nucleo.Common.dll.config
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Alemana.Nucleo.Common.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Alemana.Nucleo.Common.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\fastJSON.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.csprojResolveAssemblyReference.cache
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.ExceptionHandling.Resource.resources
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.Messages.resources
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.csproj.GenerateResource.Cache
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Common\obj\Debug\Alemana.Nucleo.Common.pdb

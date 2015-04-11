@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C41271A-FD13-4CAE-8B13-A8488B324896}</ProjectGuid>
+    <OutputType>library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CoreApplication.Cabeceras.Wpf</RootNamespace>
+    <AssemblyName>CoreApplication.Cabeceras.Wpf</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CoreApplication.Common">
+      <HintPath>..\..\..\Shell\CoreApplication.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="CoreApplication.Infrastructure">
+      <HintPath>..\..\..\Shell\CoreApplication.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Shell\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism">
+      <HintPath>..\..\..\Shell\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism.Interactivity">
+      <HintPath>..\..\..\Shell\Microsoft.Practices.Prism.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism.MefExtensions">
+      <HintPath>..\..\..\Shell\Microsoft.Practices.Prism.MefExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CabeceraModule.cs" />
+    <Compile Include="Menus\ProfesionalShellMenuProvider.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ViewModel\CabeceraMedicoViewModel.cs" />
+    <Compile Include="ViewModel\CabeceraPacienteViewModel.cs" />
+    <Compile Include="View\CabeceraMedico.xaml.cs">
+      <DependentUpon>CabeceraMedico.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\CabeceraPaciente.xaml.cs">
+      <DependentUpon>CabeceraPaciente.xaml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Alemana.Nucleo.Cabeceras.Servicio\CoreApplication.Cabeceras.Servicio.csproj">
+      <Project>{694a12b7-ee8e-4b03-8e15-a5f13fa67569}</Project>
+      <Name>CoreApplication.Cabeceras.Servicio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CoreApplication.Cabeceras.Contrato\CoreApplication.Cabeceras.Contrato.csproj">
+      <Project>{10d7dd1c-56da-40ca-b083-57fa085151f9}</Project>
+      <Name>CoreApplication.Cabeceras.Contrato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CoreApplication.Cabeceras.Mocks.Servicio\CoreApplication.Cabeceras.Mocks.Servicio.csproj">
+      <Project>{231cd8b9-864b-4555-8a46-e496faa0e7f0}</Project>
+      <Name>CoreApplication.Cabeceras.Mocks.Servicio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="View\CabeceraMedico.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\CabeceraPaciente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Img\2013-05-10 11_50_23-parametros.png" />
+    <Resource Include="Img\bg-principal.png" />
+    <Resource Include="Img\borde-filtros-separacion.png" />
+    <Resource Include="Img\borde-filtros.png" />
+    <Resource Include="Img\bt-filtros-guardar-activo.png" />
+    <Resource Include="Img\bt-filtros-guardar-apagado.png" />
+    <Resource Include="Img\bt-filtros-guardar.png" />
+    <Resource Include="Img\ico-acceso-activo.png" />
+    <Resource Include="Img\ico-acceso-inactivo.png" />
+    <Resource Include="Img\ico-actualizacion.png" />
+    <Resource Include="Img\ico-alergias-activo.png" />
+    <Resource Include="Img\ico-alergias.png" />
+    <Resource Include="Img\ico-alerta-cambio-al.png" />
+    <Resource Include="Img\ico-alerta-cambio.png" />
+    <Resource Include="Img\ico-bandeja-activo.png" />
+    <Resource Include="Img\ico-bandeja-inactivo.png" />
+    <Resource Include="Img\ico-bt-login.png" />
+    <Resource Include="Img\ico-bt-siguiente.png" />
+    <Resource Include="Img\ico-buscar-busqueda.png" />
+    <Resource Include="Img\ico-buscar.png" />
+    <Resource Include="Img\ico-contraer-tabla.png" />
+    <Resource Include="Img\ico-estadisticas.png" />
+    <Resource Include="Img\ico-etiquetas-activo.png" />
+    <Resource Include="Img\ico-etiquetas.png" />
+    <Resource Include="Img\ico-expandir-tabla.png" />
+    <Resource Include="Img\ico-faq.png" />
+    <Resource Include="Img\ico-herramientas.png" />
+    <Resource Include="Img\ico-mensaje-activo.png" />
+    <Resource Include="Img\ico-mensaje-inactivo.png" />
+    <Resource Include="Img\ico-mis-filtros-activo.png" />
+    <Resource Include="Img\ico-mis-filtros-inactivo.png" />
+    <Resource Include="Img\ico-motivo-consulta-activo.png" />
+    <Resource Include="Img\ico-motivo-consulta.png" />
+    <Resource Include="Img\ico-no-ha-seleccionado-ambiente.png" />
+    <Resource Include="Img\ico-olvido-pass-activo.png" />
+    <Resource Include="Img\ico-olvido-pass.png" />
+    <Resource Include="Img\ico-pacientes-en-atencion-activo.png" />
+    <Resource Include="Img\ico-pacientes-en-atencion.png" />
+    <Resource Include="Img\ico-pass-activo.png" />
+    <Resource Include="Img\ico-pass.png" />
+    <Resource Include="Img\ico-reloj-recordara-clave.png" />
+    <Resource Include="Img\ico-tratante-activo.png" />
+    <Resource Include="Img\ico-tratante.png" />
+    <Resource Include="Img\ico-tym-alerta.png" />
+    <Resource Include="Img\ico-ubicacion-activo-ambulatorio.png" />
+    <Resource Include="Img\ico-ubicacion-activo-corporativo.png" />
+    <Resource Include="Img\ico-ubicacion-activo-hospitalizado.png" />
+    <Resource Include="Img\ico-ubicacion-activo-urgencia.png" />
+    <Resource Include="Img\ico-ubicacion-inactivo.png" />
+    <Resource Include="Img\ico-user-activo.png" />
+    <Resource Include="Img\ico-user.png" />
+    <Resource Include="Img\logo-alemana-login.png" />
+    <Resource Include="Img\logo-alemanab.png" />
+    <Resource Include="Img\menu-doble-click.png" />
+    <Resource Include="Img\menu-oculto.png" />
+    <Resource Include="Img\opselec-radio-condiciones.png" />
+    <Resource Include="Img\opselec-radio.png" />
+    <Resource Include="Img\profile-adulto-hombre.png" />
+    <Resource Include="Img\profile-adulto-mayor-hombre.png" />
+    <Resource Include="Img\profile-adulto-mayor-mujer.png" />
+    <Resource Include="Img\profile-adulto-mujer.png" />
+    <Resource Include="Img\profile-bebe-f.png" />
+    <Resource Include="Img\profile-bebe-m.png" />
+    <Resource Include="Img\profile-nina-joven.png" />
+    <Resource Include="Img\profile-nina.png" />
+    <Resource Include="Img\profile-nino-joven.png" />
+    <Resource Include="Img\profile-nino.png" />
+    <Resource Include="Img\profile-sin-foto.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(TargetDir)$(SolutionName)*" "$(SolutionDir)\..\..\ModulesBin\" /Y</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

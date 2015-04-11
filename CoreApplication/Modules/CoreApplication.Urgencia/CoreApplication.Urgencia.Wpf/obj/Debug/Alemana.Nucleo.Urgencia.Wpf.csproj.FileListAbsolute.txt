@@ -1,0 +1,66 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Views\ListadoUrgencia.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Views\ListadoUrgencia.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf_MarkupCompile.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.g.resources
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.Properties.Resources.resources
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.csproj.GenerateResource.Cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Wpf.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Wpf.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Common.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Infrastructure.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\fastJSON.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Common.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Infrastructure.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Wpf.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Wpf.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Common.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Infrastructure.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Servicio.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Prism.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\System.Windows.Interactivity.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\fastJSON.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Urgencia.Servicio.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Common.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Alemana.Nucleo.Infrastructure.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\System.Windows.Interactivity.xml
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Views\ListadoUrgencia.baml
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Views\ListadoUrgencia.g.cs
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf_MarkupCompile.cache
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.g.resources
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.Properties.Resources.resources
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.csproj.GenerateResource.Cache
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Wpf\obj\Debug\Alemana.Nucleo.Urgencia.Wpf.pdb

@@ -1,0 +1,5 @@
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\bin\Debug\Alemana.Nucleo.Cabeceras.Contrato.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\bin\Debug\Alemana.Nucleo.Cabeceras.Contrato.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\obj\Debug\Alemana.Nucleo.Cabeceras.Contrato.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\obj\Debug\Alemana.Nucleo.Cabeceras.Contrato.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\obj\Debug\Alemana.Nucleo.Cabeceras.Contrato.csprojResolveAssemblyReference.cache

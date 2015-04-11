@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="CoreApplication.Mocks.MockModule1.Views.View2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:ie="http://schemas.microsoft.com/expression/2010/interactions"
+             xmlns:prismInt="clr-namespace:Microsoft.Practices.Prism.Interactivity;assembly=Microsoft.Practices.Prism.Interactivity"
+             xmlns:prism="http://www.codeplex.com/prism"
+             xmlns:cmd="clr-namespace:CoreApplication.Infrastructure.Commands;assembly=CoreApplication.Infrastructure"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="500">
+    <Grid>
+        <TextBlock Text="Módulo MockModule1 - View 2" Foreground="Crimson" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Calibri" FontSize="24" FontWeight="Bold"></TextBlock>
+        <Rectangle Fill="#FF7C7CD3" HorizontalAlignment="Left" Height="100" Margin="10,14,0,0" Stroke="Black" VerticalAlignment="Top" Width="100">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter">
+                    <prismInt:InvokeCommandAction Command="{Binding ToggleMessageCommand}" CommandParameter="MouseEnter Event!" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="MouseLeave">
+                    <prismInt:InvokeCommandAction Command="{Binding ToggleMessageCommand}" CommandParameter="MouseLeave Event!" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="MouseDown">
+                    <ie:CallMethodAction TargetObject="{Binding}" MethodName="ShowMessage"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Rectangle>
+        <Label Content="{Binding Message}" HorizontalAlignment="Left" Margin="150,24,0,0" VerticalAlignment="Top" Foreground="{Binding MessageColor}"/>
+        <Ellipse Fill="#FF23E034" HorizontalAlignment="Left" Height="100" Margin="369,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="100">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseMove">
+                    <cmd:EventToCommand PassEventArgsToCommand="True"
+                                            Command="{Binding MoveMouseCommand}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Ellipse>
+    </Grid>
+</UserControl>

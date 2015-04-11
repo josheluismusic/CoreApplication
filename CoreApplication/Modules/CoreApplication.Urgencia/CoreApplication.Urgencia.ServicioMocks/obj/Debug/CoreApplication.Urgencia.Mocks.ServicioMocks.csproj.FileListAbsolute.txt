@@ -1,0 +1,14 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\CoreApplication.Common.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\CoreApplication.Urgencia.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\fastJSON.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\CoreApplication.Urgencia.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\CoreApplication.Common.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\obj\Debug\CoreApplication.Urgencia.Mocks.ServicioMocks.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\CoreApplication.Urgencia.Mocks.ServicioMocks.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\bin\Debug\CoreApplication.Urgencia.Mocks.ServicioMocks.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\obj\Debug\CoreApplication.Urgencia.Mocks.ServicioMocks.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Urgencia\CoreApplication.Urgencia.ServicioMocks\obj\Debug\CoreApplication.Urgencia.Mocks.ServicioMocks.pdb

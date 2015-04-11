@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="CoreApplication.Mocks.MockModule3.Views.Sample4.View1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:prism="http://www.codeplex.com/prism"
+             xmlns:abc="clr-namespace:CoreApplication.Mocks.MockModule3;assembly=CoreApplication.Mocks.MockModule3"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <ContentControl prism:RegionManager.RegionName="MockModule3Sample4MainRegion"/>
+    </Grid>
+</UserControl>

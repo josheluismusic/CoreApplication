@@ -1,0 +1,22 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Alemana.Nucleo.Infrastructure.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Alemana.Nucleo.Infrastructure.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\obj\Debug\Alemana.Nucleo.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\obj\Debug\Alemana.Nucleo.Infrastructure.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\obj\Debug\Alemana.Nucleo.Infrastructure.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Alemana.Nucleo.Infrastructure.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Alemana.Nucleo.Infrastructure.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\bin\Debug\System.Windows.Interactivity.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\obj\Debug\Alemana.Nucleo.Infrastructure.csprojResolveAssemblyReference.cache
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\obj\Debug\Alemana.Nucleo.Infrastructure.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Infrastructure\obj\Debug\Alemana.Nucleo.Infrastructure.pdb

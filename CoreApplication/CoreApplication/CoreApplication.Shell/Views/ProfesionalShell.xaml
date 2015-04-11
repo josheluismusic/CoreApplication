@@ -1,0 +1,42 @@
+﻿<src:WindowBase x:Class="CoreApplication.Shell.Views.ProfesionalShell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://www.codeplex.com/prism"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        xmlns:inf="clr-namespace:CoreApplication.Infrastructure;assembly=CoreApplication.Infrastructure"
+        xmlns:src="clr-namespace:CoreApplication.Shell"
+        xmlns:uc="clr-namespace:CoreApplication.Shell.UserControls"
+        MinHeight="720" MinWidth="1280"
+        Title="ProfesionalShell"
+        x:Name="Root">
+
+    <Grid UseLayoutRounding="True"
+          Background="{DynamicResource ShellDefaultBackground}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="118"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <uc:Header x:Name="Header"
+                   Grid.Row="0"
+                   MainMenu="{Binding MainMenuItems}"
+                   StatsMenu="{Binding StatsMenuItems}"
+                   ConfigMenu="{Binding ConfigMenuItems}"
+                   HelpMenu="{Binding HelpMenuItems}"/>
+
+        <ScrollViewer Grid.Row="1"
+                      Margin="5"
+                      VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Auto">
+            <ContentControl x:Name="HeadRegion"
+                            prism:RegionManager.RegionName="{x:Static inf:RegionNames.ProfesionalShellHeadRegion}"/>
+        </ScrollViewer>
+
+        <TabControl x:Name="MainRegion"
+                    prism:RegionManager.RegionName="{x:Static inf:RegionNames.ProfesionalShellMainRegion}"
+                    Grid.Row="2"
+                    Margin="5,0,5,5"
+                    SelectedIndex="0"/>
+    </Grid>
+</src:WindowBase>

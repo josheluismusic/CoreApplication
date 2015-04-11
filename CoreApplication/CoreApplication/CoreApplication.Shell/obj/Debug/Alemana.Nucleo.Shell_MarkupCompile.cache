@@ -1,0 +1,20 @@
+﻿Alemana.Nucleo.Shell
+
+
+winexe
+C#
+.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\
+Alemana.Nucleo.Shell
+none
+false
+DEBUG;TRACE
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\App.xaml
+11-581146094
+1757871838
+29275530927
+27-414248380
+Resources\Menu.xaml;Resources\TabControl.xaml;Resources\ToggleButton.xaml;Themes\AmbulatorioTheme.xaml;Themes\HospitalarioTheme.xaml;Themes\CorporativoTheme.xaml;Themes\UrgenciaTheme.xaml;UserControls\Header.xaml;UserControls\Info.xaml;Views\PacienteShell.xaml;Views\ProfesionalShell.xaml;
+
+False
+

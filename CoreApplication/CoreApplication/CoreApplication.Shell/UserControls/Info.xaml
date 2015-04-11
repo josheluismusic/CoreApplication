@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="CoreApplication.Shell.UserControls.Info"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://www.codeplex.com/prism"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="70" d:DesignWidth="500"
+             x:Name="Root">
+    <Grid>
+        <Canvas>
+            <Border x:Name="InfoBorder"
+                    Padding="4"
+                    Background="{Binding Background, ElementName=Root}"
+                    Height="{Binding Height, ElementName=Root}">
+                <StackPanel Orientation="Horizontal">
+                    <ToggleButton x:Name="ToggleRegion"
+                                  Margin="0,0,4,0"
+                                  VerticalAlignment="Top"
+                                  Background="{Binding Background, ElementName=Root}"
+                                  Style="{DynamicResource ToggleButtonStyle}"/>
+                    <ContentControl x:Name="InfoRegion"
+                                    prism:RegionManager.RegionName="{Binding RegionName, ElementName=Root}"
+                                    Grid.Row="2"/>
+                </StackPanel>
+            </Border>
+        </Canvas>
+    </Grid>
+</UserControl>

@@ -1,0 +1,28 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\obj\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\obj\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Common.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\fastJSON.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Common.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\obj\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Common.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\fastJSON.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Alemana.Nucleo.Common.pdb
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\obj\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\obj\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.dll
+D:\SISTEMAS\00 NUCLEO\01 Modulos\00 Shell\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks\obj\Debug\Alemana.Nucleo.Urgencia.Mocks.ServicioMocks.pdb

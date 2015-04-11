@@ -1,0 +1,14 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Servicio\obj\Debug\CoreApplication.Cabeceras.Servicio.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Servicio\obj\Debug\CoreApplication.Cabeceras.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Servicio\obj\Debug\CoreApplication.Cabeceras.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Servicio\obj\Debug\CoreApplication.Cabeceras.Servicio.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Servicio\obj\Debug\CoreApplication.Cabeceras.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Servicio\obj\Debug\CoreApplication.Cabeceras.Servicio.pdb

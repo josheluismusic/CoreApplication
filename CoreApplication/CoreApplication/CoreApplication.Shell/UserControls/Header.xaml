@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="CoreApplication.Shell.UserControls.Header"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:uc="clr-namespace:CoreApplication.Shell.UserControls"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:sd="clr-namespace:CoreApplication.Shell.SampleData"
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=sd:Header, IsDesignTimeCreatable=True}"
+             d:DesignHeight="49" d:DesignWidth="900"
+             x:Name="Root">
+    <Grid Background="{DynamicResource MenuBackgroundColor}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <!--menú principal-->
+        <Menu Grid.Column="0"
+              DataContext="{Binding MainMenu, ElementName=Root}"
+              d:DataContext="{Binding MainMenu}"
+              ItemsSource="{Binding}"
+              Style="{DynamicResource MenuStyle}"/>
+
+        <!--menú íconos-->
+        <Menu Grid.Column="1"
+              Style="{DynamicResource MenuButtonStyle}">
+            <MenuItem DataContext="{Binding StatsMenu, ElementName=Root}"
+                      d:DataContext="{Binding StatsMenu}"
+                      ItemsSource="{Binding}"
+                      ItemContainerStyle="{DynamicResource MenuButtonItemStyle}">
+                <MenuItem.Icon>
+                    <Image Source="..\Resources\ico-estadisticas.png"/>
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem DataContext="{Binding ConfigMenu, ElementName=Root}"
+                      d:DataContext="{Binding ConfigMenu}"
+                      ItemsSource="{Binding}"
+                      ItemContainerStyle="{DynamicResource MenuButtonItemStyle}">
+                <MenuItem.Icon>
+                    <Image Source="..\Resources\ico-herramientas.png"/>
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem DataContext="{Binding HelpMenu, ElementName=Root}"
+                      d:DataContext="{Binding HelpMenu}"
+                      ItemsSource="{Binding}"
+                      ItemContainerStyle="{DynamicResource MenuButtonItemStyle}">
+                <MenuItem.Icon>
+                    <Image Source="..\Resources\ico-faq.png"/>
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem x:Name="SearchMenu"
+                      ItemContainerStyle="{DynamicResource MenuButtonItemStyle}">
+                <MenuItem.Icon>
+                    <Image Source="..\Resources\ico-buscar.png"/>
+                </MenuItem.Icon>
+                <MenuItem x:Name="Results"
+                          Template="{DynamicResource MenuSearchSubmenuHeaderTemplate}"
+                          ItemContainerStyle="{DynamicResource MenuButtonItemStyle}">
+                    <MenuItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox x:Name="Query"
+                                     Width="200"
+                                     FontSize="{DynamicResource MenuFontSizeSubmenu}"
+                                     BorderThickness="0"/>
+                        </StackPanel>
+                    </MenuItem.Header>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <!--logo-->
+        <Image Grid.Column="2"
+               Margin="15,0,15,0"
+               Width="165"
+               Height="37"
+               Source="..\Resources\logo-alemanab.png"/>
+    </Grid>
+</UserControl>

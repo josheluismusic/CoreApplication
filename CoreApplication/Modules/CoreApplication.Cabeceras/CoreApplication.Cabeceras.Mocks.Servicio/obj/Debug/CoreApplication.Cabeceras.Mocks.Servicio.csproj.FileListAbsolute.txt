@@ -1,0 +1,14 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Mocks.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Mocks.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Mocks.Servicio\obj\Debug\CoreApplication.Cabeceras.Mocks.Servicio.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Mocks.Servicio\obj\Debug\CoreApplication.Cabeceras.Mocks.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Mocks.Servicio\obj\Debug\CoreApplication.Cabeceras.Mocks.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Mocks.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Mocks.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Mocks.Servicio\bin\Debug\CoreApplication.Cabeceras.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Mocks.Servicio\obj\Debug\CoreApplication.Cabeceras.Mocks.Servicio.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Mocks.Servicio\obj\Debug\CoreApplication.Cabeceras.Mocks.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Mocks.Servicio\obj\Debug\CoreApplication.Cabeceras.Mocks.Servicio.pdb

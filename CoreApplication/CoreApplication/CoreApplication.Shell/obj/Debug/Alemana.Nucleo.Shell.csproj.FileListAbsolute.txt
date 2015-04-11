@@ -1,0 +1,134 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\permissions.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.exe.config
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.exe.manifest
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.application
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.exe
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Common.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Infrastructure.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\fastJSON.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Common.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Infrastructure.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Resources\Menu.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Resources\ToggleButton.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\AmbulatorioTheme.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\HospitalarioTheme.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\CorporativoTheme.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\UrgenciaTheme.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Info.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\App.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Header.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Info.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\PacienteShell.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\ProfesionalShell.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\App.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell_Content.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell_MarkupCompile.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell_MarkupCompile.lref
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Resources\TabControl.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Header.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\PacienteShell.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\ProfesionalShell.baml
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.g.resources
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.Properties.Resources.resources
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.csproj.GenerateResource.Cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.exe.manifest
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.application
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.exe
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.exe.config
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.exe
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\permissions.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.exe.manifest
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.application
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.exe
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Shell.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Common.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Infrastructure.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Prism.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\System.Windows.Interactivity.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Data.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.Unity.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\fastJSON.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Common.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Alemana.Nucleo.Infrastructure.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\System.Windows.Interactivity.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Data.pdb
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\Telerik.Windows.Data.xml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.csprojResolveAssemblyReference.cache
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Resources\Menu.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Resources\ToggleButton.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\AmbulatorioTheme.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\HospitalarioTheme.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\CorporativoTheme.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Themes\UrgenciaTheme.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Info.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\App.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Header.g.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Info.g.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\PacienteShell.g.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\ProfesionalShell.g.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\App.g.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell_Content.g.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell_MarkupCompile.cache
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell_MarkupCompile.lref
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Resources\TabControl.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\UserControls\Header.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\PacienteShell.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Views\ProfesionalShell.baml
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.g.resources
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.Properties.Resources.resources
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.csproj.GenerateResource.Cache
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.exe.manifest
+E:\SISTEMAS\00 NUCLEO\01 Modulos\Shell\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\obj\Debug\Alemana.Nucleo.Shell.application
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\CoreApp.Shell.exe.config
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Alemana.Nucleo\Alemana.Nucleo.Shell\bin\Debug\CoreApplication.Shell.exe.config

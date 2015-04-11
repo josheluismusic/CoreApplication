@@ -1,0 +1,246 @@
+﻿<UserControl x:Class="CoreApplication.Cabeceras.Wpf.View.CabeceraPaciente"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" VerticalAlignment="Top">
+    <DockPanel LastChildFill="True" Margin="20,10,20,10">
+        <Grid DockPanel.Dock="Top">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <DockPanel LastChildFill="True" Grid.Row="0">
+                <Grid DockPanel.Dock="Top" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" DataContext="{Binding SelectedPerson}">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition MaxWidth="100"></ColumnDefinition>
+                        <ColumnDefinition MinWidth="300"></ColumnDefinition>
+                        <ColumnDefinition MinWidth="300"></ColumnDefinition>
+                        <ColumnDefinition MinWidth="300"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Column="0" Grid.RowSpan="2">
+                        <Border Margin="10" BorderBrush="Gray" BorderThickness="1" CornerRadius="8">
+                            <Image Margin="5" Source="/Img/profile-adulto-hombre.png"></Image>
+                        </Border>
+                    </DockPanel>
+                    <TextBlock Grid.Column="1" Grid.Row="0" FontSize="20" Text="{Binding Path=nombrePaciente}" HorizontalAlignment="left" VerticalAlignment="Center" FontFamily="TitilliumText25L 400 wt" Foreground="#FF444444"></TextBlock>
+                    <WrapPanel Grid.Column="1" Grid.Row="1" HorizontalAlignment="left" VerticalAlignment="Center">
+                        <TextBlock Margin="0,0,10,10" FontFamily="TitilliumText25L 400 wt" FontSize="15" Text="RUT" Foreground="#FF444444"></TextBlock>
+                        <TextBlock Margin="0,0,10,10" FontFamily="TitilliumText25L 400 wt" FontSize="15" Text="23139769-8" Foreground="#FF444444" FontWeight="Bold"></TextBlock>
+                        <TextBlock Margin="0,0,10,10" FontFamily="TitilliumText25L 400 wt" FontSize="15" Text="BOX" Foreground="#FF444444"></TextBlock>
+                        <TextBlock Margin="0,0,10,10" FontFamily="TitilliumText25L 400 wt" FontSize="15" Text="45" Foreground="#FF444444" FontWeight="Bold"></TextBlock>
+                    </WrapPanel>
+                    <WrapPanel Grid.Column="2" Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Center">
+                        <TextBlock Margin="0,0,10,10" FontFamily="TitilliumText25L 400 wt" FontSize="15" Text="F. Nac" Foreground="#FF444444"></TextBlock>
+                        <TextBlock Margin="0,0,10,10" FontFamily="TitilliumText25L 400 wt" FontSize="15" Text="05-Jul-1995" Foreground="#FF444444" FontWeight="Bold"></TextBlock>
+                        <TextBlock Margin="0,0,10,10" FontFamily="TitilliumText25L 400 wt" FontSize="15" Text="(17a)" Foreground="#FF444444" FontWeight="Bold"></TextBlock>
+                    </WrapPanel>
+                </Grid>
+            </DockPanel>
+            <DockPanel LastChildFill="True" Grid.Row="1" Grid.ColumnSpan="4" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Expander DockPanel.Dock="Top" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" BorderBrush="Gray" Background="White">
+                    <Expander.Header>
+                        <DockPanel>
+                            <Grid DockPanel.Dock="Top" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="250"></ColumnDefinition>
+                                    <ColumnDefinition Width="280"></ColumnDefinition>
+                                    <ColumnDefinition Width="250"></ColumnDefinition>
+                                    <ColumnDefinition Width="250"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <DockPanel Grid.Column="0" HorizontalAlignment="Left">
+                                    <Grid DockPanel.Dock="Top">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Grid.RowSpan="2" Margin="5" Width="25" Height="25" Source="/Img/ico-tratante-activo.png"></Image>
+                                        <TextBlock Grid.Column="1" Grid.Row="0" Text="Tratante" FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                        <WrapPanel Grid.Column="1" Grid.Row="1">
+                                            <TextBlock Text="WOF" FontFamily="TitilliumText25L 600 wt" Foreground="#FF00D600" FontSize="13.333"/>
+                                            <TextBlock Margin="5,0,5,0" Text="|"></TextBlock>
+                                            <TextBlock Text="MER" FontFamily="TitilliumText25L 600 wt" Foreground="#FF26C9FF" FontSize="13.333"/>
+                                        </WrapPanel>
+                                    </Grid>
+                                </DockPanel>
+                                <DockPanel Grid.Column="1" HorizontalAlignment="Left">
+                                    <Grid DockPanel.Dock="Top">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Grid.RowSpan="2" Margin="5"  Width="25" Height="25" Source="/Img/ico-motivo-consulta-activo.png"></Image>
+                                        <TextBlock Grid.Column="1" Grid.Row="0" Text="Motivo de Consulta" FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                        <WrapPanel Grid.Column="1" Grid.Row="1">
+                                            <TextBlock Text="Fiebre" FontFamily="TitilliumText25L 600 wt" Foreground="#FF595959" FontSize="13.333"/>
+                                        </WrapPanel>
+                                    </Grid>
+                                </DockPanel>
+                                <DockPanel Grid.Column="2" HorizontalAlignment="Left">
+                                    <Grid DockPanel.Dock="Top">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Grid.RowSpan="2" Margin="5"  Width="25" Height="25" Source="/Img/ico-etiquetas-activo.png"></Image>
+                                        <TextBlock Grid.Column="1" Grid.Row="0" Text="Etiquetas" FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                        <WrapPanel Grid.Column="1" Grid.Row="1">
+                                            <TextBlock Text="Reunión Clínica" FontFamily="TitilliumText25L 600 wt" Foreground="#FF595959" FontSize="13.333"/>
+                                        </WrapPanel>
+                                    </Grid>
+                                </DockPanel>
+                                <DockPanel Grid.Column="3" HorizontalAlignment="Left">
+                                    <Grid DockPanel.Dock="Top">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Grid.RowSpan="2" Margin="5"  Width="25" Height="25" Source="/Img/ico-alergias-activo.png"></Image>
+                                        <TextBlock Grid.Column="1" Grid.Row="0" Text="Alergias Conocidas" FontFamily="TitilliumText25L 250 wt" Foreground="#FF27BBA7" FontSize="14.667" FontWeight="Bold"/>
+                                        <WrapPanel Grid.Column="1" Grid.Row="1">
+                                            <TextBlock Text="3 Alergias" FontFamily="TitilliumText25L 600 wt" Foreground="#FFCC0000" FontSize="13.333" FontWeight="Bold"/>
+                                        </WrapPanel>
+                                    </Grid>
+                                </DockPanel>
+                            </Grid>
+                        </DockPanel>
+                    </Expander.Header>
+                    <DockPanel>
+                        <Grid DockPanel.Dock="Top" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="280"></ColumnDefinition>
+                                <ColumnDefinition Width="280"></ColumnDefinition>
+                                <ColumnDefinition Width="280"></ColumnDefinition>
+                                <ColumnDefinition Width="280"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <DockPanel Margin="10,10,0,0" Grid.Column="0" HorizontalAlignment="Left">
+                                <Grid DockPanel.Dock="Top">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Margin="0,10,0,10" Grid.Column="0" Grid.Row="0" FontFamily="TitilliumText25L 250 wt" FontSize="14.667" OpacityMask="#FF27BBA7">
+									<Hyperlink Foreground="Teal">Gestionar tratante</Hyperlink>
+                                    </TextBlock>
+                                    <TextBlock Grid.Column="0" Grid.Row="1" Text="Asistencias : " FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                    <WrapPanel Grid.Column="1" Grid.Row="1">
+                                        <TextBlock Text="WOF | MER " FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+                                    </WrapPanel>
+                                    <WrapPanel Grid.ColumnSpan="2" Grid.Row="2">
+                                        <TextBlock Text="RFC | AST | UFC " FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+                                    </WrapPanel>
+                                    <TextBlock Grid.Column="0" Grid.Row="3" Text="Cabecera : " FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                    <WrapPanel Grid.Column="1" Grid.Row="3">
+                                        <TextBlock Text="WOF" FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667"/>
+                                    </WrapPanel>
+                                </Grid>
+                            </DockPanel>
+                            <DockPanel  Margin="10,10,0,0" Grid.Column="1" HorizontalAlignment="Left">
+                                <Grid DockPanel.Dock="Top">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Margin="0,10,0,10" Grid.Column="0" Grid.Row="0" FontFamily="TitilliumText25L 250 wt" FontSize="14.667" OpacityMask="#FF27BBA7">
+									<Hyperlink Foreground="Teal">Más datos</Hyperlink>
+                                    </TextBlock>
+                                    <TextBlock Grid.Column="0" Grid.Row="1" Text="OP : " FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                    <WrapPanel Grid.Column="1" Grid.Row="1">
+                                        <TextBlock Text="102514281032" FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667"/>
+                                    </WrapPanel>
+                                    <TextBlock Grid.Column="0" Grid.Row="2" Text="Tiempo espera : " FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                    <WrapPanel Grid.Column="1" Grid.Row="2">
+                                        <TextBlock Text="25 min." FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667"/>
+                                    </WrapPanel>
+                                </Grid>
+                            </DockPanel>
+                            <DockPanel  Margin="10,10,0,0" Grid.Column="2" HorizontalAlignment="Left">
+                                <Grid DockPanel.Dock="Top">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Margin="0,10,0,10" Grid.Column="0" Grid.Row="0" FontFamily="TitilliumText25L 250 wt" FontSize="14.667" OpacityMask="#FF27BBA7">
+									<Hyperlink Foreground="Teal">Gestionar etiquetas</Hyperlink>
+                                    </TextBlock>
+                                    <TextBlock Grid.Column="0" Grid.Row="1" Text="Reunión clínica" FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                    <TextBlock Grid.Column="0" Grid.Row="2" Text="Ecocardio complejo" FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                    <TextBlock Grid.Column="0" Grid.Row="3" Text="Rx Interesante" FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                </Grid>
+                            </DockPanel>
+                            <DockPanel  Margin="10,10,0,0" Grid.Column="3" HorizontalAlignment="Left">
+                                <DockPanel Grid.Column="2" HorizontalAlignment="Left">
+                                    <Grid DockPanel.Dock="Top">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBlock Margin="0,10,0,10" Grid.Column="0" Grid.Row="0" FontFamily="TitilliumText25L 250 wt" FontSize="14.667" OpacityMask="#FF27BBA7">
+									<Hyperlink Foreground="Teal">Más datos</Hyperlink>
+                                        </TextBlock>
+                                        <TextBlock Grid.Column="0" Grid.Row="1" Text="Latex " FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                        <WrapPanel Grid.Column="1" Grid.Row="1">
+                                            <TextBlock Text="14-Nov-2000" FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667"/>
+                                        </WrapPanel>
+                                        <TextBlock Grid.Column="0" Grid.Row="2" Text="Penicilina " FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                        <WrapPanel Grid.Column="1" Grid.Row="2">
+                                            <TextBlock Text="10-Jul-2005" FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667"/>
+                                        </WrapPanel>
+                                        <TextBlock Grid.Column="0" Grid.Row="3" Text="Maní" FontFamily="TitilliumText25L 250 wt" Foreground="Gray" FontSize="14.667"/>
+                                        <WrapPanel Grid.Column="1" Grid.Row="3">
+                                            <TextBlock Text="22-Ene-2008" FontFamily="TitilliumText25L 600 wt" Foreground="Gray" FontSize="14.667"/>
+                                        </WrapPanel>
+                                    </Grid>
+                                </DockPanel>
+                            </DockPanel>
+                        </Grid>
+                    </DockPanel>
+                </Expander>
+            </DockPanel>
+        </Grid>
+    </DockPanel>
+</UserControl>

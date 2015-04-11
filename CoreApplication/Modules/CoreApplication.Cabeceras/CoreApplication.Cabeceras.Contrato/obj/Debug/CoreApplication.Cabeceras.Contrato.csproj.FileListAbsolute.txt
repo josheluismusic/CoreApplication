@@ -1,0 +1,8 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\bin\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\bin\Debug\CoreApplication.Cabeceras.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\obj\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Cabeceras\Alemana.Nucleo.Cabeceras.Contrato\obj\Debug\CoreApplication.Cabeceras.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Contrato\bin\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Contrato\bin\Debug\CoreApplication.Cabeceras.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Contrato\obj\Debug\CoreApplication.Cabeceras.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\CoreApplication.Cabeceras\CoreApplication.Cabeceras.Contrato\obj\Debug\CoreApplication.Cabeceras.Contrato.pdb

@@ -1,0 +1,14 @@
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Alemana.Nucleo.Urgencia.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Alemana.Nucleo.Urgencia.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Alemana.Nucleo.Urgencia.Contrato.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\obj\Debug\Alemana.Nucleo.Urgencia.Servicio.csprojResolveAssemblyReference.cache
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\obj\Debug\Alemana.Nucleo.Urgencia.Servicio.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\obj\Debug\Alemana.Nucleo.Urgencia.Servicio.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Alemana.Nucleo.Common.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\fastJSON.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Alemana.Nucleo.Common.pdb
+C:\Users\jcandia\Desktop\ClinicaAlemana-master\Modules\Alemana.Nucleo.Urgencia\Alemana.Nucleo.Urgencia.Servicio\bin\Debug\Microsoft.Practices.ServiceLocation.xml

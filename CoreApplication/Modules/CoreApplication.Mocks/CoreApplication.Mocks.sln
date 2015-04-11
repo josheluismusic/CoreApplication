@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApplication.Mocks.BasicModule", "CoreApplication.Mocks.BasicModule\CoreApplication.Mocks.BasicModule.csproj", "{24BBA901-EE9B-4E40-A3BE-633CF03CF8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApplication.Mocks.InitModule", "CoreApplication.Mocks.InitModule\CoreApplication.Mocks.InitModule.csproj", "{B141814A-E28A-474D-9796-D5A64DA0E503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApplication.Mocks.MockModule1", "CoreApplication.Mocks.MockModule1\CoreApplication.Mocks.MockModule1.csproj", "{A8181C53-0E61-46C5-8B09-B754C473F302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApplication.Mocks.MockModule2", "CoreApplication.Mocks.MockModule2\CoreApplication.Mocks.MockModule2.csproj", "{890D65B3-8E86-473C-B15A-0F71CEDF19FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApplication.Mocks.MockModule3", "CoreApplication.Mocks.MockModule3\CoreApplication.Mocks.MockModule3.csproj", "{8BA5D119-FB57-416E-A3A9-F3220389D3F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BBA901-EE9B-4E40-A3BE-633CF03CF8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BBA901-EE9B-4E40-A3BE-633CF03CF8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BBA901-EE9B-4E40-A3BE-633CF03CF8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BBA901-EE9B-4E40-A3BE-633CF03CF8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B141814A-E28A-474D-9796-D5A64DA0E503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B141814A-E28A-474D-9796-D5A64DA0E503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B141814A-E28A-474D-9796-D5A64DA0E503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B141814A-E28A-474D-9796-D5A64DA0E503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8181C53-0E61-46C5-8B09-B754C473F302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8181C53-0E61-46C5-8B09-B754C473F302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8181C53-0E61-46C5-8B09-B754C473F302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8181C53-0E61-46C5-8B09-B754C473F302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890D65B3-8E86-473C-B15A-0F71CEDF19FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890D65B3-8E86-473C-B15A-0F71CEDF19FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890D65B3-8E86-473C-B15A-0F71CEDF19FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890D65B3-8E86-473C-B15A-0F71CEDF19FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA5D119-FB57-416E-A3A9-F3220389D3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA5D119-FB57-416E-A3A9-F3220389D3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA5D119-FB57-416E-A3A9-F3220389D3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA5D119-FB57-416E-A3A9-F3220389D3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
